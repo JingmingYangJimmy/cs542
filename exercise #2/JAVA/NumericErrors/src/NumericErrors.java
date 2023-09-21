@@ -9,7 +9,7 @@ public class NumericErrors {
 
     /*
      * Takes two integers x and y, returns their sum(x+y). Throws an
-     * ArithmeticException in case of overflow.
+     * ArithmeticException in case of the overflow.
      */
     public static int add(int x, int y) throws ArithmeticException {
         // Check for positive overflow
